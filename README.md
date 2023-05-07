@@ -1,11 +1,11 @@
 # Shello-world: run shell commands from your Python code via simple functions
-A few simple Python functions allow you to run shell commands from your Python code
+A few simple Python functions allow you to run shell commands from your Python code.
 
 ## Why shello-world?
 It isn't a big library or framework. If you want a quick solution, you could prefer shello-world.
 
 ## Usage
-Let's take a look at a simple example below
+Let's take a look at a simple example below:
 ```python
 from shello_world import shell_execute, shell_run
 
